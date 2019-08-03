@@ -1,5 +1,3 @@
-package policia_federal;
-
 public class problem_5 {
 
     public void menorNumero() {

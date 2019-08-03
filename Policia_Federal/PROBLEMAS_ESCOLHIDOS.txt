@@ -1,0 +1,45 @@
+Smallest multiple
+
+Problem 5
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+Counting Sundays
+
+Problem 19
+You are given the following information, but you may prefer to do some research for yourself.
+
+1 Jan 1900 was a Monday.
+Thirty days has September,
+April, June and November.
+All the rest have thirty-one,
+Saving February alone,
+Which has twenty-eight, rain or shine.
+And on leap years, twenty-nine.
+A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
+How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
+
+1000-digit Fibonacci number
+
+Problem 25
+The Fibonacci sequence is defined by the recurrence relation:
+
+Fn = Fn−1 + Fn−2, where F1 = 1 and F2 = 1.
+Hence the first 12 terms will be:
+
+F1 = 1
+F2 = 1
+F3 = 2
+F4 = 3
+F5 = 5
+F6 = 8
+F7 = 13
+F8 = 21
+F9 = 34
+F10 = 55
+F11 = 89
+F12 = 144
+The 12th term, F12, is the first term to contain three digits.
+
+What is the index of the first term in the Fibonacci sequence to contain 1000 digits?

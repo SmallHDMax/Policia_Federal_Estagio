@@ -1,5 +1,3 @@
-package policia_federal;
-
 import java.util.Scanner;
 
 public class Exec {

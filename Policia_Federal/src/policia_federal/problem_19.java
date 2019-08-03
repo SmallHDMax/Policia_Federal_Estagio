@@ -1,5 +1,3 @@
-package policia_federal;
-
 public class problem_19 {
 
     public void Sunday() {

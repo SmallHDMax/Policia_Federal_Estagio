@@ -12,7 +12,7 @@ public class Exec {
         int selec = 0;
         boolean continuar = true;
         do {
-            System.out.printf("\nEscolha um dos Problemas a ser revolvido\n"
+            System.out.printf("\nEscolha um dos Problemas a ser revolvido (https://projecteuler.net/archives)\n"
                             + "1 - Problema 5 : Número positivo divisível por todos os números de 1 a 20\n"
                             + "2 - Problema 19 : Domingos no dia 1 do mês\n"
                             + "3 - Problema 25 : Primeiro número com 4 digitos na sequencia de Fibonacci\n"
